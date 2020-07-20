@@ -1,0 +1,1 @@
+echo "run quality test"
